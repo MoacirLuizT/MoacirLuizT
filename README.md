@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MoacirLuizT
-- 👀 I’m interested in use the GitHub to put my programs.
-- 🌱 I’m currently learning Java, JavaScript ant other mobile languaghes like flutter, swift an kotlin.
+- 👀 I’m interested in use the GitHub to save my programs and join the Github community.
+- 🌱 I’m currently learning Java, JavaScript ant other mobile languages like flutter, swift an kotlin.
 - 💞️ I’m looking to collaborate on all projects that I can.
 - 📫 How to reach me at email: moatam11@gmail.com.
 
